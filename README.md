@@ -6,6 +6,7 @@
 * [Discord Bot Token](https://discord.com/developers/applications)
 * [Node v14+](https://nodejs.org/en/)
 * [Roblox Group ID](https://www.roblox.com/my/groups)
+* Discord Channel ID
 
 #### Configuration
 
