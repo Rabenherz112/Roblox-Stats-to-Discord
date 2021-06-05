@@ -20,3 +20,5 @@ To start with the actuall configuration open the config.json file and replace th
 
 Once you invited the Bot to your server you can start the Bot up.
 For the first startup run first `npm i` and after that `node .`
+
+The Bot will now update the Channel all 30 Minutes. If you wish this to be shorter go into the index.js file and change the 30 in line 30 to something else.
