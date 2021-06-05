@@ -1,0 +1,10 @@
+{
+    "token": "AddYourBotTokenHere",
+    "guild": "YourDiscordGuildID",
+    "urls": {
+        "RobloxGroupInfos": "https://groups.roblox.com/v1/groups/GROUPID"
+    },
+    "voicechannels": {
+        "RobloxGroupMemberCount": "VoiceChannelID"
+    }
+}
