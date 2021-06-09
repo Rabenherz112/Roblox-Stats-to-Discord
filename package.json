@@ -2,7 +2,7 @@
   "name": "roblox-status-discord-bot",
   "version": "1.0.0",
   "main": "bot.js",
-  "author": "Andrezzz",
+  "author": "Rabenherz",
   "dependencies": {
     "axios": "^0.21.1",
     "discord.js": "^12.5.3"
