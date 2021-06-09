@@ -1,3 +1,4 @@
+//Note: Please only change Stuff if you know what you are doing!
 const axios = require('axios');
 const Discord = require('discord.js');
 const config = require('./config.json');
