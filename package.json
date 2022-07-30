@@ -4,7 +4,7 @@
   "main": "bot.js",
   "author": "Rabenherz",
   "dependencies": {
-    "axios": "^0.21.1",
-    "discord.js": "^12.5.3"
+    "axios": "^0.27.2",
+    "discord.js": "^14.1.1"
   }
 }
